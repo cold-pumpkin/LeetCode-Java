@@ -1,6 +1,6 @@
 package linked_list.Reverse_Linked_List;
 
-import java.util.List;
+import linked_list.ListNode;
 
 class Solution {
     // Iterative
